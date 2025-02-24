@@ -4,6 +4,8 @@ S&P 500 Stock Analysis and Forecasting
 
 This project analyzes S&P 500 stock trends to identify investment opportunities and economic signals. We apply time series forecasting models to predict stock prices and evaluate model performance.
 
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/13aeb0f0-94f7-40bd-9d24-c6d6eace72ae" />
+
 📊 Data Sources
 
 S&P 500 historical data sourced from Yahoo Finance / Kaggle
@@ -13,6 +15,7 @@ Data includes Open, High, Low, Close prices, trading volume, and market trends.
 We implemented and compared various forecasting models:
 
 Linear Regression
+
 Naïve Algorithm
 Exponential Smoothing (ETS - MAA: Multiplicative Error, Additive Trend, Additive Seasonality)
 ARIMA (AutoRegressive Integrated Moving Average)
