@@ -26,7 +26,12 @@ Market dynamics change rapidly, so regular model updates are essential.
 🛠️ Technologies Used
 
 Python: Pandas, NumPy, Scikit-learn, Statsmodels
-Visualization: Matplotlib, Seaborn
+Visualization: Matplotlib, Seaborn, Power BI
+
+<img width="988" alt="Screenshot 2025-02-25 at 12 58 52 PM" src="https://github.com/user-attachments/assets/8f279223-a0f8-42cd-9e8a-729d841dca7a" />
+
+<img width="973" alt="Screenshot 2025-02-25 at 1 00 15 PM" src="https://github.com/user-attachments/assets/2966fd1e-79a5-4dcf-abc5-ed06927a1770" />
+
 Forecasting Models: ARIMA, Exponential Smoothing, Regression
 🚀 How to Run the Project
 
